@@ -9,6 +9,4 @@ Hi, I am Chetan Narkhede. Living in Bangalore, India.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
-
-
+[chetannarkhede@gmail.com](mailto:chetannarkhede@gmail.com)
